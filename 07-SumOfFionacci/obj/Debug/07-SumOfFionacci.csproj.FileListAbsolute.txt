@@ -1,0 +1,9 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\07-SumOfFionacci\bin\Debug\07-SumOfFionacci.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\07-SumOfFionacci\obj\Debug\07-SumOfFionacci.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\07-SumOfFionacci\bin\Debug\07-SumOfFionacci.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\07-SumOfFionacci\bin\Debug\07-SumOfFionacci.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\07-SumOfFionacci\obj\Debug\07-SumOfFionacci.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\07-SumOfFionacci\obj\Debug\07-SumOfFionacci.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\07-SumOfFionacci\bin\Debug\07-SumOfFionacci.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\07-SumOfFionacci\obj\Debug\07-SumOfFionacci.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\07-SumOfFionacci\obj\Debug\07-SumOfFionacci.pdb

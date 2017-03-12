@@ -1,0 +1,12 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\bin\Debug\14-SpiralNumbers.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\obj\Debug\14-SpiralNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\bin\Debug\14-SpiralNumbers.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\bin\Debug\14-SpiralNumbers.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\obj\Debug\14-SpiralNumbers.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\obj\Debug\14-SpiralNumbers.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\bin\Debug\14-SpiralNumbers.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\obj\Debug\14-SpiralNumbers.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\obj\Debug\14-SpiralNumbers.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\bin\Debug\14-SpiralNumbers.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\bin\Debug\14-SpiralNumbers.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\14-SpiralNumbers\obj\Debug\14-SpiralNumbers.csprojResolveAssemblyReference.cache

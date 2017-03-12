@@ -1,0 +1,9 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\12-Matrix\bin\Debug\12-Matrix.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\12-Matrix\bin\Debug\12-Matrix.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\12-Matrix\bin\Debug\12-Matrix.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\12-Matrix\obj\Debug\12-Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\12-Matrix\obj\Debug\12-Matrix.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\12-Matrix\obj\Debug\12-Matrix.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\12-Matrix\bin\Debug\12-Matrix.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\12-Matrix\obj\Debug\12-Matrix.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\12-Matrix\obj\Debug\12-Matrix.pdb

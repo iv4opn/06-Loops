@@ -1,0 +1,9 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\09-CatalaNnumbers\bin\Debug\09-CatalaNnumbers.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\09-CatalaNnumbers\bin\Debug\09-CatalaNnumbers.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\09-CatalaNnumbers\bin\Debug\09-CatalaNnumbers.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\09-CatalaNnumbers\obj\Debug\09-CatalaNnumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\09-CatalaNnumbers\obj\Debug\09-CatalaNnumbers.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\09-CatalaNnumbers\obj\Debug\09-CatalaNnumbers.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\09-CatalaNnumbers\bin\Debug\09-CatalaNnumbers.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\09-CatalaNnumbers\obj\Debug\09-CatalaNnumbers.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\09-CatalaNnumbers\obj\Debug\09-CatalaNnumbers.pdb

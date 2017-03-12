@@ -1,0 +1,9 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\05-NKFactorial\bin\Debug\05-NKFactorial.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\05-NKFactorial\bin\Debug\05-NKFactorial.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\05-NKFactorial\bin\Debug\05-NKFactorial.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\05-NKFactorial\obj\Debug\05-NKFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\05-NKFactorial\obj\Debug\05-NKFactorial.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\05-NKFactorial\obj\Debug\05-NKFactorial.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\05-NKFactorial\bin\Debug\05-NKFactorial.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\05-NKFactorial\obj\Debug\05-NKFactorial.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\05-NKFactorial\obj\Debug\05-NKFactorial.pdb

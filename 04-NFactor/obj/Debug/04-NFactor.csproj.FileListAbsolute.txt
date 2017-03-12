@@ -1,0 +1,9 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\04-NFactor\bin\Debug\04-NFactor.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\04-NFactor\obj\Debug\04-NFactor.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\04-NFactor\bin\Debug\04-NFactor.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\04-NFactor\bin\Debug\04-NFactor.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\04-NFactor\obj\Debug\04-NFactor.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\04-NFactor\obj\Debug\04-NFactor.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\04-NFactor\bin\Debug\04-NFactor.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\04-NFactor\obj\Debug\04-NFactor.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\04-NFactor\obj\Debug\04-NFactor.pdb

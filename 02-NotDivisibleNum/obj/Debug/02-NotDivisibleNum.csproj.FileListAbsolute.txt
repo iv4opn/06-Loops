@@ -1,0 +1,8 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\02-NotDivisibleNum\bin\Debug\02-NotDivisibleNum.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\02-NotDivisibleNum\bin\Debug\02-NotDivisibleNum.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\02-NotDivisibleNum\bin\Debug\02-NotDivisibleNum.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\02-NotDivisibleNum\obj\Debug\02-NotDivisibleNum.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\02-NotDivisibleNum\obj\Debug\02-NotDivisibleNum.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\02-NotDivisibleNum\bin\Debug\02-NotDivisibleNum.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\02-NotDivisibleNum\obj\Debug\02-NotDivisibleNum.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\02-NotDivisibleNum\obj\Debug\02-NotDivisibleNum.pdb

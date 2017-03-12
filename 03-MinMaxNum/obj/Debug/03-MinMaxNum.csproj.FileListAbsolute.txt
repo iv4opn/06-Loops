@@ -1,0 +1,8 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\03-MinMaxNum\bin\Debug\03-MinMaxNum.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\03-MinMaxNum\bin\Debug\03-MinMaxNum.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\03-MinMaxNum\bin\Debug\03-MinMaxNum.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\03-MinMaxNum\obj\Debug\03-MinMaxNum.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\03-MinMaxNum\obj\Debug\03-MinMaxNum.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\03-MinMaxNum\bin\Debug\03-MinMaxNum.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\03-MinMaxNum\obj\Debug\03-MinMaxNum.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\03-MinMaxNum\obj\Debug\03-MinMaxNum.pdb

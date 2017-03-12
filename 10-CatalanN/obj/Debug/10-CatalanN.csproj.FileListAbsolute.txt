@@ -1,0 +1,9 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\10-CatalanN\bin\Debug\10-CatalanN.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\10-CatalanN\bin\Debug\10-CatalanN.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\10-CatalanN\bin\Debug\10-CatalanN.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\10-CatalanN\obj\Debug\10-CatalanN.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\10-CatalanN\obj\Debug\10-CatalanN.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\10-CatalanN\obj\Debug\10-CatalanN.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\10-CatalanN\bin\Debug\10-CatalanN.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\10-CatalanN\obj\Debug\10-CatalanN.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\10-CatalanN\obj\Debug\10-CatalanN.pdb

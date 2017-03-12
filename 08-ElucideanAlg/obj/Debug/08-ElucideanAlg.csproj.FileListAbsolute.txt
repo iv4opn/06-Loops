@@ -1,0 +1,8 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\08-ElucideanAlg\bin\Debug\08-ElucideanAlg.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\08-ElucideanAlg\bin\Debug\08-ElucideanAlg.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\08-ElucideanAlg\bin\Debug\08-ElucideanAlg.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\08-ElucideanAlg\obj\Debug\08-ElucideanAlg.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\06-Loops\08-ElucideanAlg\obj\Debug\08-ElucideanAlg.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\08-ElucideanAlg\bin\Debug\08-ElucideanAlg.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\08-ElucideanAlg\obj\Debug\08-ElucideanAlg.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\06-Loops\08-ElucideanAlg\obj\Debug\08-ElucideanAlg.pdb
